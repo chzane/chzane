@@ -1,9 +1,9 @@
 # 👋 Hey!
 
-I'm a Developer and Game Design from [SoalriiX](https://solariix.com/en).
+I'm a Developer and Game Design from [AstriIIX](https://astriiix.com).
 
 [![X.com](https://img.shields.io/badge/-ZhaoChenr-black?labelColor=black&logo=x&logoColor=white&style=flat-square)](https://x.com/Zane1616398)
-[![Email](https://img.shields.io/badge/-zane@gcafe.top-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:zane@gcafe.top)
+[![Email](https://img.shields.io/badge/-slxzane@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-squareh](mailto:slxzane@outlook.com)
 [![QQ](https://img.shields.io/badge/-986686113-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square)](#)
 
 ## Steam
