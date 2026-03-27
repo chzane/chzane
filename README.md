@@ -1,6 +1,11 @@
 # 👋 Hey there!
 
-I'm a Developer and Game Design from [AstriIIX](https://astriiix.com) and [SolarIIX](https://solariix.com).
+> The only way to do great work is to love what you do.
+> — Steve Jobs
+
+I'm a Developer from [AstriIIX](https://astriiix.com) and [SolarIIX](https://solariix.com).
+
+Currently diving into **Godot** game development and **AI-powered applications**.
 
 My personal website: [zaneaf.top](https://zaneaf.top/)
 
@@ -8,4 +13,4 @@ My personal website: [zaneaf.top](https://zaneaf.top/)
 [![chzaneaf@outlook.com](https://img.shields.io/badge/-chzaneaf@outlook.com-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:chzaneaf@outlook.com)
 ![](https://img.shields.io/badge/-QQ:986686113-black?labelColor=black&logo=qq&logoColor=white&style=flat-square)
 
-![](https://github-readme-stats.shion.dev/api?username=chzane&theme=transparent&hide_rank=false&card_width=400)
+<!-- ![](https://github-readme-stats.shion.dev/api?username=chzane&theme=transparent&hide_rank=false&card_width=400) -->
